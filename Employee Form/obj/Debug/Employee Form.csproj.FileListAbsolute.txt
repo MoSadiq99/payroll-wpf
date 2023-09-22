@@ -1,0 +1,11 @@
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.exe.config
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.exe
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.pdb
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.csproj.AssemblyReference.cache
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.csproj.SuggestedBindingRedirects.cache
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.Form1.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.Properties.Resources.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.csproj.GenerateResource.cache
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.csproj.CoreCompileInputs.cache
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.exe
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.pdb

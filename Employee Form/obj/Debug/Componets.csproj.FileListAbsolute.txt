@@ -1,0 +1,57 @@
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.exe.config
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.exe
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Employee Form.pdb
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Bunifu.UI.WinForms.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Bunifu.UI.WinForms.1.5.3.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Microsoft.Win32.Registry.AccessControl.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Microsoft.Win32.SystemEvents.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\RestSharp.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Buffers.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.CodeDom.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Data.Odbc.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Data.OleDb.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Data.SqlClient.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Diagnostics.EventLog.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Drawing.Common.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.IO.FileSystem.AccessControl.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.IO.Packaging.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.IO.Ports.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Memory.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Security.Cryptography.Cng.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Security.Cryptography.Pkcs.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Security.Cryptography.ProtectedData.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Security.Cryptography.Xml.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Security.Permissions.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.ServiceModel.Syndication.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.ServiceProcess.ServiceController.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Text.Encoding.CodePages.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\bin\Debug\System.Threading.AccessControl.xml
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Componets.csproj.AssemblyReference.cache
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.branch_details.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.EmployeeComponetsNew.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.Home.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.LeaveManagement.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.leavetypes.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.LogIn.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.Properties.Resources.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.Propeties.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.Salary_Calculation.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.salary_sheet.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.Settings.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.user_LogIn.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.vehicle_details.resources
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Componets.csproj.GenerateResource.cache
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Componets.csproj.CoreCompileInputs.cache
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Componets.csproj.Fody.CopyLocal.cache
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Componets.csproj.CopyComplete
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.exe
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee Form.pdb
+C:\Users\Mx\source\repos\Employee Form\Employee Form\obj\Debug\Employee_Form.Attendance.resources
